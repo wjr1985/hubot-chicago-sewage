@@ -1,6 +1,6 @@
 # hubot-chicago-sewage
 
-A hubot script that checks to see if raw sewage is being dumped into Chicago rivers right now
+A hubot script that checks to see if raw sewage is being dumped into Chicago rivers right now. Data is sourced from http://istheresewageinthechicagoriver.com/
 
 See [`src/chicago-sewage.coffee`](src/chicago-sewage.coffee) for full documentation.
 
